@@ -1,0 +1,1 @@
+primer examen, y habia creado el readme en main para poder cambiarme a main justamente
